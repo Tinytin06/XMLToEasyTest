@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="XMLToEasyTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/XMLToEasyTest_jar</output-path>
+    <root id="archive" name="XMLToEasyTest.jar">
+      <element id="module-output" name="XMLToEasyTest" />
+    </root>
+  </artifact>
+</component>
